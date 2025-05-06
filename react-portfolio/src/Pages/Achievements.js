@@ -1,13 +1,17 @@
 import React from 'react';
 import './Achievements.css';
+// eslint-disable-next-line
 import { Carousel } from 'react-responsive-carousel';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { FaCheckCircle } from 'react-icons/fa';
 
 
 // Images for the carousel
+// eslint-disable-next-line
 import image1 from '../assets/achievement1.jpeg';
+// eslint-disable-next-line
 import image2 from '../assets/achievement2.jpeg';
+// eslint-disable-next-line
 import image3 from '../assets/achievement3.jpeg';
 
 const achievementsData = [
